@@ -1,0 +1,11 @@
+.container__big-card{
+    /* height: 50px; */
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.container__big-card > button{
+    justify-content: end;
+}
