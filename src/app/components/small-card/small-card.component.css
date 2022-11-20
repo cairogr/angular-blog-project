@@ -1,0 +1,32 @@
+.container__small-card{
+    margin: auto;
+    padding: 50px;
+    width: 1400px;
+
+}
+
+.container__small-card-content{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.container__small-card-texts{
+    padding: 5px;
+
+    width: 350px;
+    height: 110px;
+    line-height: 0.6cm;
+}
+
+.container__small-card-texts > h1 {
+    color: hsl(236, 13%, 42%);
+}
+
+.container__small-card-texts > h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container__small-card-texts > p {
+    color: hsl(236, 13%, 42%);
+}
